@@ -47,5 +47,5 @@ https://art-here.site
 Backend|Backend|Frontend|Frontend
 :---:|:---:|:---:|:---:
 <img src="https://avatars.githubusercontent.com/u/86236392?v=4" width="120px" height="120px" title="coucouluv"/>|<img src="https://avatars.githubusercontent.com/u/70767115?v=4" width="120px" height="120px" title="ensk26"/>|<img src="https://avatars.githubusercontent.com/u/99801230?v=4" width="120px" height="120px" title="HANBEENi"/>|<img src="https://avatars.githubusercontent.com/u/108715216?v=4" width="120px" height="120px" title="ohtmm"/>
-[박지연](https://github.com/coucouluv)|[서두나](https://github.com/ensk26)|[김한빈](https://github.com/HANBEENi)|[최지영](https://github.com/ohtmm)
+[박지연](https://github.com/coucouluv)|[서두나](https://github.com/ensk26)|[임거정](https://github.com/dgd03146)|[최지영](https://github.com/ohtmm)
 
