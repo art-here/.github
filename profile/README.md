@@ -15,6 +15,7 @@ Art Here는 주변 공공 예술 작품을 알려주는 웹페이지입니다. �
 ## 서비스 화면
 https://art-here.site
 
+<!--
 ## 기술 스택
 ### Back-end
 
@@ -38,6 +39,7 @@ https://art-here.site
 - 서버 배포 환경 구축
 - 기능 구현 (메인화면, 지도 화면)
 
+-->
 [와이어프레임](https://www.figma.com/file/6V85Hw0SYPuayqowrD2SBQ/Art-Here-Wirefarme?node-id=317%3A2303)
 
 [회의록](https://github.com/orgs/art-here/discussions/categories/%ED%9A%8C%EC%9D%98%EB%A1%9D)
